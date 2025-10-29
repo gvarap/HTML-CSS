@@ -1,2 +1,1 @@
-# scrimba
-Scrimba HTML CSS projects
+HTML CSS Projects
