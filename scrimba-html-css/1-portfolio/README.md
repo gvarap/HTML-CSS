@@ -1,2 +1,3 @@
 # simple personal portfolio project
-<img width="988" height="872" alt="Screenshot 2025-09-21 160803" src="https://github.com/user-attachments/assets/d91627ac-1208-465d-b82d-eb9e8ba2f44f" />
+<img width="917" height="958" alt="image" src="https://github.com/user-attachments/assets/06c62f64-d1f8-4f00-8cb6-9af1099c2aaa" />
+
